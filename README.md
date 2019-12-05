@@ -1,7 +1,7 @@
 # Python_SQLAlchemy
 
-![precip](Precipitation.png)
+![precip](Precipitation.PNG)
 
-![temp](Temp.png)
+![temp](Temp.PNG)
 
-![avgtemp](Trip_avg_temp.png)
+![avgtemp](Trip_avg_temp.PNG)
