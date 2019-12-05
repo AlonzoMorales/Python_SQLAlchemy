@@ -4,7 +4,7 @@
 Analyse Sqlite file with climate data using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
 #### Precipitation Analysis
-* Design a query to retrieve the last 12 months of precipitation data.
+* Design a query to retrieve 12 months of precipitation data.
 * Load the query results into a Pandas DataFrame and set the index to the date column.
 * Sort the DataFrame values by date.
 * Plot the results using the DataFrame plot method.
