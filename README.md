@@ -16,13 +16,13 @@ Analyse Sqlite file with climate data using SQLAlchemy ORM queries, Pandas, and 
   * List the stations and observation counts in descending order.
   * List the station that has the highest number of observations.
 * Design a query to retrieve 12 months of temperature observation data.
- * Filter by the station with the highest number of observations.
- * Plot the results as a histogram.
+  * Filter by the station with the highest number of observations.
+  * Plot the results as a histogram.
 
 #### Temperature Analysis
 * Calculate and plot the min, avg, and max temperature from chosen date range as a bar chart.
-* Use the average temperature as the bar height.
-* Use the peak-to-peak value as the y error bar.
+  * Use the average temperature as the bar height.
+  * Use the peak-to-peak value as the y error bar.
 
 ![precip](Precipitation.PNG)
 
